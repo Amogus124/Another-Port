@@ -1,0 +1,31 @@
+{
+	"storyName": "AMY??",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "amy",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"old possesed",
+			"amy",
+			[
+				206,
+				153,
+				235
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Custom Week"
+}
